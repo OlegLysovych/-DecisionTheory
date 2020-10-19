@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\DecisionTheory\first\bin\Debug\netcoreapp3.1\first.exe
+C:\Users\PC\source\repos\DecisionTheory\first\bin\Debug\netcoreapp3.1\first.deps.json
+C:\Users\PC\source\repos\DecisionTheory\first\bin\Debug\netcoreapp3.1\first.runtimeconfig.json
+C:\Users\PC\source\repos\DecisionTheory\first\bin\Debug\netcoreapp3.1\first.runtimeconfig.dev.json
+C:\Users\PC\source\repos\DecisionTheory\first\bin\Debug\netcoreapp3.1\first.dll
+C:\Users\PC\source\repos\DecisionTheory\first\bin\Debug\netcoreapp3.1\first.pdb
+C:\Users\PC\source\repos\DecisionTheory\first\obj\Debug\netcoreapp3.1\first.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\DecisionTheory\first\obj\Debug\netcoreapp3.1\first.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\DecisionTheory\first\obj\Debug\netcoreapp3.1\first.AssemblyInfo.cs
+C:\Users\PC\source\repos\DecisionTheory\first\obj\Debug\netcoreapp3.1\first.dll
+C:\Users\PC\source\repos\DecisionTheory\first\obj\Debug\netcoreapp3.1\first.pdb
