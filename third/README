@@ -1,0 +1,18 @@
+Condorcet and Borda methods for counting votes at making decisions/
+The task with three candidates and looks like:
+34	a	b	c
+24	a	c	b
+23	c	b	a
+12	b	c	a
+10	c	a	b
+
+Result by Borda:
+a	229
+b	184
+c	205
+
+Results by Condorce:
+  a b c
+a	-	68	58
+b	35	-	46
+c	45	57	-
